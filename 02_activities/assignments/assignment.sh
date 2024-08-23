@@ -28,7 +28,7 @@ cat dir2/file3.txt
 
 # 6. Delete file4
 cd dir2
-rm file4.txt
+rm file4
 
 # 7. Delete directories dir4 and dir5 including all their contents (if any)
 rm -r dir4
